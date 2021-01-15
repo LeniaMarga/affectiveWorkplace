@@ -31,12 +31,18 @@
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
         "axios": "^0.21.1",
+        "bl": "^4.0.3",
         "bootstrap": "4.3.1",
         "emojionearea": "^3.0.0",
         "firebase": "^7.9.1",
+        "fstream": "^1.0.12",
+        "https-proxy-agent": "^5.0.0",
         "jquery": "^3.5.1",
         "jquery.easing": "^1.4.1",
-        "magnific-popup": "^1.1.0"
+        "lodash": "^4.17.20",
+        "magnific-popup": "^1.1.0",
+        "puppeteer": "^5.5.0",
+        "tar": "^6.1.0"
     },
     "devDependencies": {
         "browser-sync": "^2.26.13",
